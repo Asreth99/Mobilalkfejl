@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Balaton Tour</string>
+    <string name="home">Home</string>
+    <string name="tours">Tours</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_tours">Tours</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="szigligeti_var">Szigligeti Vár</string>
+    <string name="more_information">Bővebb Információ</string>
+    <string name="szigligeti_var_leiras">A Balatoni Szigligeti várat a 13. században építették, és az egyik legjobb állapotban fennmaradt középkori vár Magyarországon. A vár a Balaton északi partján található és gyönyörű kilátást nyújt a környékre.</string>
+    <string name="sumegi_var">Sümegi Vár</string>
+    <string name="sumegi_var_leiras">A Balatoni Sümegi várat a 13. században építették, és egyike a legjelentősebb középkori várnak Magyarországon. A vár a Balaton-felvidéki Nemzeti Park területén található és kiváló kirándulóhely.</string>
+    <string name="balatonboglar_gombkilato">Balatonboglári Gömbkilátó</string>
+    <string name="gombkilato_leiras">A Balatonboglári gömbkilátó egy 23 méter magas építmény, amelyből gyönyörű kilátás nyílik a Balatonra és környékére.</string>
+    <string name="events">Events</string>
+    <string name="tavaszi_feszt_datum">2023.március 26 - április 26.</string>
+    <string name="tavaszi_feszt">Siófoki Tavaszi Fesztivál 2023</string>
+    <string name="more_info">Több Infó</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="title_placeholder">Cim</string>
+    <string name="desc_placeholder">Ide kerul majd a leiras</string>
+    <string name="Event_Date_placeholder">Ide Kerul A Datum</string>
+    <string name="Event_title_plchldr">Ide Kerul Az Event Cim</string>
+    <string name="logout">Kijelentkezés</string>
+
+
+    <string-array name="tours_names">
+        <item>Szigligeti Vár</item>
+        <item>Sümegi Vár</item>
+        <item>Balatonboglári gömbkilátó</item>
+    </string-array>
+
+    <string-array name="tours_description">
+        <item>A Balatoni Szigligeti várat a 13. században építették, és az egyik legjobb állapotban fennmaradt középkori vár Magyarországon. A vár a Balaton északi partján található és gyönyörű kilátást nyújt a környékre.</item>
+        <item>A Balatoni Sümegi várat a 13. században építették, és egyike a legjelentősebb középkori várnak Magyarországon. A vár a Balaton-felvidéki Nemzeti Park területén található és kiváló kirándulóhely.</item>
+        <item>A Balatonboglári gömbkilátó egy 23 méter magas építmény, amelyből gyönyörű kilátás nyílik a Balatonra és környékére.</item>
+    </string-array>
+
+
+    <string-array name="tours_image">
+        <item>@drawable/szigligeti_var</item>
+        <item>@drawable/sumegi_var</item>
+        <item>@drawable/balatonboglar_gombkilato</item>
+    </string-array>
+
+
+    <string-array name="event_names">
+        <item>Siófoki Tavaszi Fesztivál 2023</item>
+        <item>Orgonakoncertek a hévízi Szentlélek Templomban 2023</item>
+        <item>Season Opening Festival 2023 Keszthely</item>
+        <item>Jókai napok 2023 Balatonfüred</item>
+        <item>Jókai-bableves főzőverseny 2023 Balatonfüred</item>
+        <item>Vitorlabontó Ünnepség és Évadnyitó Vitorlásverseny 2023 Balatonfüred</item>
+    </string-array>
+
+    <string-array name="event_dates">
+        <item>2023.05.24.</item>
+        <item>2023.05.19.</item>
+        <item>2023.05.22.</item>
+        <item>2023.05.28.</item>
+        <item>2023.05.29.</item>
+        <item>2023.05.07.</item>
+    </string-array>
+
+    <string-array name="event_hypen">
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+
+    </string-array>
+    <string-array name="event_dates2">
+        <item>2023.05.26.</item>
+        <item>2023.05.25.</item>
+        <item>2023.05.22.</item>
+        <item>2023.05.29.</item>
+        <item>2023.05.29.</item>
+        <item>2023.05.13.</item>
+    </string-array>
+
+
+    <string-array name="event_image">
+        <item>@drawable/siofok</item>
+        <item>@drawable/heviz_templom</item>
+        <item>@drawable/season_opening_festival</item>
+        <item>@drawable/balatonfured</item>
+        <item>@drawable/bablevesfozes</item>
+        <item>@drawable/vitorlas_verseny</item>
+    </string-array>
+</resources>

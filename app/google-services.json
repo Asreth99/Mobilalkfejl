@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399250838787",
+    "project_id": "balatontour-19f82",
+    "storage_bucket": "balatontour-19f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399250838787:android:6e0e440108541642b14536",
+        "android_client_info": {
+          "package_name": "com.example.balatontour_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399250838787-7e5vmdsljsvitbtd4hngav67igfufffn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balatontour_2",
+            "certificate_hash": "9ba0710aa8c3fe9ff7c0e81efd432d2020c40bb6"
+          }
+        },
+        {
+          "client_id": "399250838787-kpc8c7j0870h80ci40bminc4b873cd5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9cUVeGLW9plEtoeMBRe7IC-y3zd2Oo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399250838787-kpc8c7j0870h80ci40bminc4b873cd5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
